@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
             'Muhammad Nazarul Iman',
             style: TextStyle(color: Colors.white),
             ),
+            centerTitle: true,
           backgroundColor: Colors.blueAccent,
         ),
         body: Center(
